@@ -1,3 +1,6 @@
+# IDE's files
+.idea/
+
 # Prerequisites
 *.d
 
