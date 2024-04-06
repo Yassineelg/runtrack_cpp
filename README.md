@@ -4,13 +4,13 @@ Welcome to the Runtrack_cpp repository! This is your go-to resource for masterin
 
 ## 📚 Table of Contents
 
-- [Introduction](#introduction) 🎉
-- [Contents](#contents) 📁
-- [How to Use This Repo](#how-to-use-this-repo) 🗂
-- [Installation](#installation) 💻
-- [Learning Objectives](#learning-objectives) 🎯
-- [Contributing](#contributing) 🤝
-- [License](#license) 📜
+- [Introduction](#-introduction) 🎉
+- [Contents](#-contents) 📁
+- [How to Use This Repo](#-how-to-use-this-repo) 🗂
+- [Installation](#-installation) 💻
+- [Learning Objectives](#-learning-objectives) 🎯
+- [Contributing](#-contributing) 🤝
+- [License](#-license) 📜
 
 ## 🎉 Introduction
 
